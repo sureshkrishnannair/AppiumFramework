@@ -40,6 +40,7 @@ public class Module1Test extends Base {
 		@AfterTest
 		public void stopService() {
 			service.stop();
+			System.out.println("Stop serice");
 		}
 	
 	@Test
