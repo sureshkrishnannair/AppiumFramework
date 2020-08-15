@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93273" started-at="2020-08-13T19:03:38Z" finished-at="2020-08-13T19:05:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93273" started-at="2020-08-13T19:03:38Z" finished-at="2020-08-13T19:05:12Z">
+      <class name="test.Module1Test">
+        <test-method status="PASS" signature="startService()[pri:0, instance:test.Module1Test@627551fb]" name="startService" is-config="true" duration-ms="8596" started-at="2020-08-13T19:03:38Z" finished-at="2020-08-13T19:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startService -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:test.Module1Test@627551fb]" name="totalValidation" duration-ms="84594" started-at="2020-08-13T19:03:47Z" finished-at="2020-08-13T19:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method status="PASS" signature="stopService()[pri:0, instance:test.Module1Test@627551fb]" name="stopService" is-config="true" duration-ms="52" started-at="2020-08-13T19:05:11Z" finished-at="2020-08-13T19:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopService -->
+      </class> <!-- test.Module1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
